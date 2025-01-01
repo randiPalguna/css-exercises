@@ -1,10 +1,10 @@
 .class-1 {
-  background-color: pink;
+  background-color: rgb(247, 162, 178);
   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #id-1 {
-  color: blue;
+  color: #0000ff;
   font-size: 36px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 #id-2 {
-  background-color: lightgreen;
-  font-size: 24px;
+  background-color: hsl(120, 73%, 75%);
+  /* font-size: 24px; */
   font-weight: bold;
 }
